@@ -1,7 +1,8 @@
+import Header from "./header/Header";
 function App() {
   return (
     <div className="App">
-      blog app
+      <Header/>
     </div>
   );
 }
