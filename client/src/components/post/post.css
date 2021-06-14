@@ -1,13 +1,13 @@
 .post {
-  width: 385px;
+  width: 255px;
   margin: 0px 25px 40px 25px;
   display: flex;
   flex-direction: column;
 }
 
 .postImg {
-  width: 385px;
-  height: 280px;
+  width: 255px;
+  height: 180px;
   object-fit: cover;
   border-radius: 7px;
 }
