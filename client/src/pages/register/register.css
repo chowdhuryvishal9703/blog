@@ -8,7 +8,7 @@
       rgba(255, 255, 255, 0.5),
       rgba(255, 255, 255, 0.5)
     ),
-    url("https://cdn.pixabay.com/photo/2021/06/08/11/27/mushrooms-6320451_960_720.jpg");
+    url("https://cdn.pixabay.com/photo/2018/09/01/08/24/kevingarnett-3646278_960_720.jpg");
   background-size: cover;
 }
 
@@ -30,22 +30,16 @@
   padding: 10px;
   background-color: white;
   border: none;
-  border-radius: 10px;
-}
-
-.registerInput:focus {
-  outline: none;
 }
 
 .registerButton {
   margin-top: 20px;
   cursor: pointer;
   background-color: teal;
-  color: white;
-  padding: 10px;
   border: none;
+  color: white;
   border-radius: 10px;
-  text-align: center;
+  padding: 10px;
 }
 
 .registerLoginButton {
@@ -54,8 +48,8 @@
   right: 20px;
   background-color: lightcoral;
   cursor: pointer;
-  padding: 10px;
   border: none;
+  padding: 10px;
   color: white;
   border-radius: 10px;
 }
