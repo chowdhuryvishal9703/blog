@@ -8,7 +8,7 @@
       rgba(255, 255, 255, 0.5),
       rgba(255, 255, 255, 0.5)
     ),
-    url("https://cdn.pixabay.com/photo/2019/08/17/17/06/baseball-4412621_960_720.jpg");
+    url("https://cdn.pixabay.com/photo/2021/06/08/11/27/mushrooms-6320451_960_720.jpg");
   background-size: cover;
 }
 
@@ -30,21 +30,22 @@
   padding: 10px;
   background-color: white;
   border: none;
+  border-radius: 10px;
+}
+
+.loginInput:focus {
+  outline: none;
 }
 
 .loginButton {
   margin-top: 20px;
   cursor: pointer;
   background-color: lightcoral;
-  border: none;
   color: white;
-  border-radius: 10px;
   padding: 10px;
-}
-
-.loginButton:disabled{
-  cursor: not-allowed;
-  background-color: rgb(252, 173, 173);
+  border: none;
+  border-radius: 10px;
+  text-align: center;
 }
 
 .loginRegisterButton {
@@ -53,8 +54,8 @@
   right: 20px;
   background-color: teal;
   cursor: pointer;
-  border: none;
   padding: 10px;
+  border: none;
   color: white;
   border-radius: 10px;
 }
